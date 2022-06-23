@@ -725,7 +725,7 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 .middel-part__block .logo a {
 	display: inline-block;
 	padding: 27px 0;
-	width: 50px;
+	width: 70px;
 }
 @media only screen and (max-width: 767px) {
 	.middel-part__block .logo a {
